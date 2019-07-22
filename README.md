@@ -1,5 +1,7 @@
 # Introduction
 
+First project to develop my tinkering needs.
+
 # Requirements
 ```pip install -r requirements.txt```
 ```python manage.py migrate```
@@ -11,5 +13,3 @@
 to exit ```deactivate```
 
 [For more information](https://virtualenv.pypa.io/en/latest/)
-## Todo
-First project to develop my tinkering needs.
